@@ -95,7 +95,5 @@ Il ne remplace pas les essais Unity, des entrées réelles et du casque.
 Le bilan des corrections et les limites des validations sont dans
 [docs/AUDIT-2026-10-31.md](docs/AUDIT-2026-10-31.md).
 
-Les dix cours PDF du dossier local `Document` ont été appliqués et reliés aux
-changements dans [docs/APPLICATION-COURS.md](docs/APPLICATION-COURS.md).
 Dans Unity, le menu **Cercle VR > Tests > Verifier les principes des cours**
 contrôle les réglages XR, les repères et le placement de lecture hors Play.
