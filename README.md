@@ -90,8 +90,6 @@ révélations, exécutions, santé, victoire/défaite, progression et redémarra
 Il échoue avec un code de sortie non nul si une assertion échoue.
 Il ne remplace pas les essais Unity, des entrées réelles et du casque.
 
-Le bilan des corrections et les limites des validations sont dans
-[docs/AUDIT-2026-10-31.md](docs/AUDIT-2026-10-31.md).
 
 Dans Unity, le menu **Cercle VR > Tests > Verifier les principes des cours**
 contrôle les réglages XR, les repères et le placement de lecture hors Play.
