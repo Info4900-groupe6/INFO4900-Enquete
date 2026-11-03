@@ -76,8 +76,6 @@ Utiliser le modèle **Bug** dans **New issue**, puis renseigner le commit, la ve
 le mode de test, la scène, le niveau et la graine. Le modèle sera proposé par GitHub
 après fusion de son ajout sur la branche principale.
 
-Le suivi des six points demandés est dans [docs/SUIVI-ISSUES.md](docs/SUIVI-ISSUES.md).
-
 ## Tests de logique
 
 Avec le SDK .NET 10 installé, depuis la racine du dépôt :
